@@ -1,0 +1,6 @@
+# General
+.DS_Store
+
+# Development
+raws/*
+*.ai
