@@ -14,13 +14,24 @@ A collection of additional custom SFSymbols for Swift
 
 ## Usage
 
+**iOS 15.0:**
+
 1. Download the `.svg`-file of the symbol you want.
-
 2. Drag the file into your `Assets.xcassets`.
-
 3. The symbol is ready to use (ex.: `Image("symbol.name")`).
 
-   > It is important to note that you do not use the SFSymbols initialiser (eg. `systemName:`), but rather the initialiser for images from your assets.
+**iOS 14.0 & earlier:**
+
+1. Download the `.svg`-file of the symbol you want.
+2. Drag it into the *Custom Symbols* category (found in the sidebar).
+3. Select it and click `File > Export Symbol` (or: `cmd+shift+E`)
+4. Export it as a `2.0`-version
+5. Drag the exported file into your `Assets.xcassets`.
+6. The symbol is ready to use (ex.: `Image("symbol.name")`).
+
+
+
+> It is important to note that you do not use the SFSymbols initialiser (eg. `systemName:`), but rather the initialiser for images from your assets.
 
 ## Symbols
 
