@@ -12,8 +12,8 @@ struct ContentView: View {
                         Image(symbol)
                             .resizable()
                             .scaledToFit()
-                            .symbolRenderingMode(.multicolor)
-                            .foregroundColor(.primary)
+                            .symbolRenderingMode(.hierarchical)
+                            .foregroundColor(.blue)
                             .frame(width: 50, height: 50)
                     }
                 }.padding(20)
@@ -21,7 +21,7 @@ struct ContentView: View {
             Button("Start Export") {
                 let dir = getDocumentsDirectory().appendingPathComponent("newImages")
                 let config = UIImage.SymbolConfiguration(pointSize: 64)
-                let config2 = UIImage.SymbolConfiguration(hierarchicalColor: .black)
+                let config2 = UIImage.SymbolConfiguration(hierarchicalColor: UIColor(Color.blue))
                 print("Start Export of \(symbolNames.count) Icons")
                 for symbol in symbolNames {
                     if let data = UIImage(named: symbol, in: nil, with: config)?.applyingSymbolConfiguration(config2)?.pngData() {
