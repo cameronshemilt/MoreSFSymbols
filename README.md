@@ -6,9 +6,8 @@ A collection of additional custom SFSymbols for Swift
 
 - [Usage](#usage)
 - [Symbols](#symbols)
-  - [Logos](#logos)
-  - [Commerce](#commerce)
   - [Developer](#developer)
+  - [Logos](#logos)
 - [Contributing](#contributing)
 - [Licence](#licence)
 
@@ -42,6 +41,12 @@ Example using the `logo.paypal.square.fill`-icon:
 | <img src="preview-images/mode-examples/monochrome-example.png" alt="logo.appstore" width="50"/> | <img src="preview-images/mode-examples/hierarchical-example.png" alt="logo.appstore" width="50"/> | <img src="preview-images/mode-examples/palette-example.png" alt="logo.appstore" width="50"/>       | <img src="preview-images/mode-examples/multicolor-example.png" alt="logo.appstore" width="50"/> |
 | `.symbolRenderingMode(.monochrome)` & `.foregroundColor(.black)`                                | `.symbolRenderingMode(.hierarchical)` & `.foregroundColor(.red)`                                  | `.symbolRenderingMode(.palette)` & `.foregroundStyle(.red, .green, .yellow)` (i know it looks bad) | `.symbolRenderingMode(.multicolor)` & `.foregroundColor(.black)`                                |
 
+### Developer
+
+| Preview | Name |
+| ------- | ---- |
+| **Git** |      |
+
 ### Logos
 
 | Preview                                                                                                                                                                | Name                                   |
@@ -70,22 +75,6 @@ Example using the `logo.paypal.square.fill`-icon:
 | <a href="logos/logo.paypal.circle.fill.svg"><img src="preview-images/logos/logo.paypal.circle.fill.png" alt="logo.appstore" width="50"/></a>                           | `logo.paypal.circle.fill`              |
 | <a href="logos/logo.paypal.square.svg"><img src="preview-images/logos/logo.paypal.square.png" alt="logo.appstore" width="50"/></a>                                     | `logo.paypal.square`                   |
 | <a href="logos/logo.paypal.square.fill.svg"><img src="preview-images/logos/logo.paypal.square.fill.png" alt="logo.appstore" width="50"/></a>                           | `logo.paypal.square.fill`              |
-
-### Commerce
-
-**Piggy Bank**
-
-> coming soon
-
-**Tip Jar**
-
-> coming soon
-
-### Developer
-
-**Git**
-
-> coming soon
 
 ## Contributing
 
