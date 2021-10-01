@@ -50,6 +50,7 @@ Example using the `logo.paypal.square.fill`-icon:
 | <a href="developer/git.branch.svg"><img src="preview-images/developer/git.branch.png" width="50"/></a>           | `git.branch`      |
 | <a href="developer/git.merge.svg"><img src="preview-images/developer/git.merge.png" width="50"/></a>             | `git.merge`       |
 | <a href="developer/git.pullrequest.svg"><img src="preview-images/developer/git.pullrequest.png" width="50"/></a> | `git.pullrequest` |
+| <a href="developer/git.fork.svg"><img src="preview-images/developer/git.fork.png" width="50"/></a>               | `git.fork`        |
 
 ### Logos
 
