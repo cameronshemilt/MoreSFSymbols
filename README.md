@@ -36,45 +36,55 @@ Preview images are rendered in `.hierarchicalMode` with a color of `.blue`. This
 
 Example using the `logo.paypal.square.fill`-icon:
 
-| Monochrome                                                                                      | Hierarchical                                                                                      | Palette                                                                                            | Multicolor                                                                                      |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| <img src="preview-images/mode-examples/monochrome-example.png" alt="logo.appstore" width="50"/> | <img src="preview-images/mode-examples/hierarchical-example.png" alt="logo.appstore" width="50"/> | <img src="preview-images/mode-examples/palette-example.png" alt="logo.appstore" width="50"/>       | <img src="preview-images/mode-examples/multicolor-example.png" alt="logo.appstore" width="50"/> |
-| `.symbolRenderingMode(.monochrome)` & `.foregroundColor(.black)`                                | `.symbolRenderingMode(.hierarchical)` & `.foregroundColor(.red)`                                  | `.symbolRenderingMode(.palette)` & `.foregroundStyle(.red, .green, .yellow)` (i know it looks bad) | `.symbolRenderingMode(.multicolor)` & `.foregroundColor(.black)`                                |
+| Monochrome                                                                  | Hierarchical                                                                  | Palette                                                                                            | Multicolor                                                                  |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| <img src="preview-images/mode-examples/monochrome-example.png" width="50"/> | <img src="preview-images/mode-examples/hierarchical-example.png" width="50"/> | <img src="preview-images/mode-examples/palette-example.png" width="50"/>                           | <img src="preview-images/mode-examples/multicolor-example.png" width="50"/> |
+| `.symbolRenderingMode(.monochrome)` & `.foregroundColor(.black)`            | `.symbolRenderingMode(.hierarchical)` & `.foregroundColor(.red)`              | `.symbolRenderingMode(.palette)` & `.foregroundStyle(.red, .green, .yellow)` (i know it looks bad) | `.symbolRenderingMode(.multicolor)` & `.foregroundColor(.black)`            |
 
 ### Developer
 
-| Preview | Name |
-| ------- | ---- |
-| **Git** |      |
+| Preview                                                                                                          | Name              |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Git**                                                                                                          |                   |
+| <a href="developer/git.commit.svg"><img src="preview-images/developer/git.commit.png" width="50"/></a>           | `git.commit`      |
+| <a href="developer/git.branch.svg"><img src="preview-images/developer/git.branch.png" width="50"/></a>           | `git.branch`      |
+| <a href="developer/git.merge.svg"><img src="preview-images/developer/git.merge.png" width="50"/></a>             | `git.merge`       |
+| <a href="developer/git.pullrequest.svg"><img src="preview-images/developer/git.pullrequest.png" width="50"/></a> | `git.pullrequest` |
 
 ### Logos
 
-| Preview                                                                                                                                                                | Name                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| **AppStore**                                                                                                                                                           |                                        |
-| <a href="logos/logo.appstore.svg"><img src="preview-images/logos/logo.appstore.png" alt="logo.appstore" width="50"/></a>                                               | `logo.appstore`                        |
-| <a href="logos/logo.appstore.circle.svg"><img src="preview-images/logos/logo.appstore.circle.png" alt="logo.appstore" width="50"/></a>                                 | `logo.appstore.circle`                 |
-| <a href="logos/logo.appstore.circle.fill.svg"><img src="preview-images/logos/logo.appstore.circle.fill.png" alt="logo.appstore" width="50"/></a>                       | `logo.appstore.circle.fill`            |
-| <a href="logos/logo.appstore.square.svg"><img src="preview-images/logos/logo.appstore.square.png" alt="logo.appstore" width="50"/></a>                                 | `logo.appstore.square`                 |
-| <a href="logos/logo.appstore.square.fill.svg"><img src="preview-images/logos/logo.appstore.square.fill.png" alt="logo.appstore" width="50"/></a>                       | `logo.appstore.square.fill`            |
-| **Bluetooth**                                                                                                                                                          |                                        |
-| <a href="logos/logo.bluetooth.svg"><img src="preview-images/logos/logo.bluetooth.png" alt="logo.appstore" width="50"/></a>                                             | `logo.bluetooth`                       |
-| <a href="logos/logo.bluetooth.capsule.portrait.fill.svg"><img src="preview-images/logos/logo.bluetooth.capsule.portrait.fill.png" alt="logo.appstore" width="50"/></a> | `logo.bluetooth.capsule.portrait.fill` |
-| **Buy me a Coffee**                                                                                                                                                    |                                        |
-| <a href="logos/logo.buymeacoffee.svg"><img src="preview-images/logos/logo.buymeacoffee.png" alt="logo.appstore" width="50"/></a>                                       | `logo.buymeacoffee`                    |
-| **GitHub**                                                                                                                                                             |                                        |
-| <a href="logos/logo.github.svg"><img src="preview-images/logos/logo.github.png" alt="logo.appstore" width="50"/></a>                                                   | `logo.github`                          |
-| **Markdown**                                                                                                                                                           |                                        |
-| <a href="logos/logo.markdown.svg"><img src="preview-images/logos/logo.markdown.png" alt="logo.appstore" width="50"/></a>                                               | `logo.markdown`                        |
-| <a href="logos/logo.markdown.rectangle.svg"><img src="preview-images/logos/logo.markdown.rectangle.png" alt="logo.appstore" width="50"/></a>                           | `logo.markdown.rectangle`              |
-| <a href="logos/logo.markdown.rectangle.fill.svg"><img src="preview-images/logos/logo.markdown.rectangle.fill.png" alt="logo.appstore" width="50"/></a>                 | `logo.markdown.rectangle.fill`         |
-| **PayPal**                                                                                                                                                             |                                        |
-| <a href="logos/logo.paypal.svg"><img src="preview-images/logos/logo.paypal.png" alt="logo.appstore" width="50"/></a>                                                   | `logo.paypal`                          |
-| <a href="logos/logo.paypal.alternative.svg"><img src="preview-images/logos/logo.paypal.alternative.png" alt="logo.appstore" width="50"/></a>                           | `logo.paypal.alternative`              |
-| <a href="logos/logo.paypal.circle.svg"><img src="preview-images/logos/logo.paypal.circle.png" alt="logo.appstore" width="50"/></a>                                     | `logo.paypal.circle`                   |
-| <a href="logos/logo.paypal.circle.fill.svg"><img src="preview-images/logos/logo.paypal.circle.fill.png" alt="logo.appstore" width="50"/></a>                           | `logo.paypal.circle.fill`              |
-| <a href="logos/logo.paypal.square.svg"><img src="preview-images/logos/logo.paypal.square.png" alt="logo.appstore" width="50"/></a>                                     | `logo.paypal.square`                   |
-| <a href="logos/logo.paypal.square.fill.svg"><img src="preview-images/logos/logo.paypal.square.fill.png" alt="logo.appstore" width="50"/></a>                           | `logo.paypal.square.fill`              |
+| Preview                                                                                                                                            | Name                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| **AppStore**                                                                                                                                       |                                        |
+| <a href="logos/logo.appstore.svg"><img src="preview-images/logos/logo.appstore.png" width="50"/></a>                                               | `logo.appstore`                        |
+| <a href="logos/logo.appstore.circle.svg"><img src="preview-images/logos/logo.appstore.circle.png" width="50"/></a>                                 | `logo.appstore.circle`                 |
+| <a href="logos/logo.appstore.circle.fill.svg"><img src="preview-images/logos/logo.appstore.circle.fill.png" width="50"/></a>                       | `logo.appstore.circle.fill`            |
+| <a href="logos/logo.appstore.square.svg"><img src="preview-images/logos/logo.appstore.square.png" width="50"/></a>                                 | `logo.appstore.square`                 |
+| <a href="logos/logo.appstore.square.fill.svg"><img src="preview-images/logos/logo.appstore.square.fill.png" width="50"/></a>                       | `logo.appstore.square.fill`            |
+| **Bluetooth**                                                                                                                                      |                                        |
+| <a href="logos/logo.bluetooth.svg"><img src="preview-images/logos/logo.bluetooth.png" width="50"/></a>                                             | `logo.bluetooth`                       |
+| <a href="logos/logo.bluetooth.capsule.portrait.fill.svg"><img src="preview-images/logos/logo.bluetooth.capsule.portrait.fill.png" width="50"/></a> | `logo.bluetooth.capsule.portrait.fill` |
+| **Buy me a Coffee**                                                                                                                                |                                        |
+| <a href="logos/logo.buymeacoffee.svg"><img src="preview-images/logos/logo.buymeacoffee.png" width="50"/></a>                                       | `logo.buymeacoffee`                    |
+| **Git**                                                                                                                                            |                                        |
+| <a href="logos/logo.git.svg"><img src="preview-images/logos/logo.git.png" width="50"/></a>                                                         | `logo.git`                             |
+| <a href="logos/logo.git.fill.svg"><img src="preview-images/logos/logo.git.fill.png" width="50"/></a>                                               | `logo.git.fill`                        |
+| **GitHub**                                                                                                                                         |                                        |
+| <a href="logos/logo.github.svg"><img src="preview-images/logos/logo.github.png" width="50"/></a>                                                   | `logo.github`                          |
+| <a href="logos/logo.github.circle.svg"><img src="preview-images/logos/logo.github.circle.png" width="50"/></a>                                     | `logo.github.circle`                   |
+| <a href="logos/logo.github.circle.fill.svg"><img src="preview-images/logos/logo.github.circle.fill.png" width="50"/></a>                           | `logo.github.circle.fill`              |
+| <a href="logos/logo.github.square.svg"><img src="preview-images/logos/logo.github.square.png" width="50"/></a>                                     | `logo.github.square`                   |
+| **Markdown**                                                                                                                                       |                                        |
+| <a href="logos/logo.markdown.svg"><img src="preview-images/logos/logo.markdown.png" width="50"/></a>                                               | `logo.markdown`                        |
+| <a href="logos/logo.markdown.rectangle.svg"><img src="preview-images/logos/logo.markdown.rectangle.png" width="50"/></a>                           | `logo.markdown.rectangle`              |
+| <a href="logos/logo.markdown.rectangle.fill.svg"><img src="preview-images/logos/logo.markdown.rectangle.fill.png" width="50"/></a>                 | `logo.markdown.rectangle.fill`         |
+| **PayPal**                                                                                                                                         |                                        |
+| <a href="logos/logo.paypal.svg"><img src="preview-images/logos/logo.paypal.png" width="50"/></a>                                                   | `logo.paypal`                          |
+| <a href="logos/logo.paypal.alternative.svg"><img src="preview-images/logos/logo.paypal.alternative.png" width="50"/></a>                           | `logo.paypal.alternative`              |
+| <a href="logos/logo.paypal.circle.svg"><img src="preview-images/logos/logo.paypal.circle.png" width="50"/></a>                                     | `logo.paypal.circle`                   |
+| <a href="logos/logo.paypal.circle.fill.svg"><img src="preview-images/logos/logo.paypal.circle.fill.png" width="50"/></a>                           | `logo.paypal.circle.fill`              |
+| <a href="logos/logo.paypal.square.svg"><img src="preview-images/logos/logo.paypal.square.png" width="50"/></a>                                     | `logo.paypal.square`                   |
+| <a href="logos/logo.paypal.square.fill.svg"><img src="preview-images/logos/logo.paypal.square.fill.png" width="50"/></a>                           | `logo.paypal.square.fill`              |
 
 ## Contributing
 
