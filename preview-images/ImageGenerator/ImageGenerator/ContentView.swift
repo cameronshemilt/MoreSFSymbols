@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    let symbolNames: [String] = [] // TODO: Add your symbol names in here
+    let symbolNames: [String] = ["logo.twitter","logo.twitter.circle","logo.twitter.circle.fill","logo.twitter.square","logo.twitter.square.fill"] // TODO: Add your symbol names in here
     
     var body: some View {
         VStack {

@@ -86,6 +86,12 @@ Example using the `logo.paypal.square.fill`-icon:
 | <a href="logos/logo.paypal.circle.fill.svg"><img src="preview-images/logos/logo.paypal.circle.fill.png" width="50"/></a>                           | `logo.paypal.circle.fill`              |
 | <a href="logos/logo.paypal.square.svg"><img src="preview-images/logos/logo.paypal.square.png" width="50"/></a>                                     | `logo.paypal.square`                   |
 | <a href="logos/logo.paypal.square.fill.svg"><img src="preview-images/logos/logo.paypal.square.fill.png" width="50"/></a>                           | `logo.paypal.square.fill`              |
+| **Twitter**                                                                                                                                         |                                        |
+| <a href="logos/logo.twitter.svg"><img src="preview-images/logos/logo.twitter.png" width="50"/></a>                                                   | `logo.twitter`                          |
+| <a href="logos/logo.twitter.circle.svg"><img src="preview-images/logos/logo.twitter.circle.png" width="50"/></a>                                     | `logo.twitter.circle`                   |
+| <a href="logos/logo.twitter.circle.fill.svg"><img src="preview-images/logos/logo.twitter.circle.fill.png" width="50"/></a>                           | `logo.twitter.circle.fill`              |
+| <a href="logos/logo.twitter.square.svg"><img src="preview-images/logos/logo.paypal.twitter.png" width="50"/></a>                                     | `logo.twitter.square`                   |
+| <a href="logos/logo.twitter.square.fill.svg"><img src="preview-images/logos/logo.twitter.square.fill.png" width="50"/></a>                           | `logo.twitter.square.fill`              |
 
 ## Contributing
 
