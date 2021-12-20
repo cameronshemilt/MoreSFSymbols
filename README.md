@@ -54,44 +54,44 @@ Example using the `logo.paypal.square.fill`-icon:
 
 ### Logos
 
-| Preview                                                                                                                                            | Name                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| **AppStore**                                                                                                                                       |                                        |
-| <a href="logos/logo.appstore.svg"><img src="preview-images/logos/logo.appstore.png" width="50"/></a>                                               | `logo.appstore`                        |
-| <a href="logos/logo.appstore.circle.svg"><img src="preview-images/logos/logo.appstore.circle.png" width="50"/></a>                                 | `logo.appstore.circle`                 |
-| <a href="logos/logo.appstore.circle.fill.svg"><img src="preview-images/logos/logo.appstore.circle.fill.png" width="50"/></a>                       | `logo.appstore.circle.fill`            |
-| <a href="logos/logo.appstore.square.svg"><img src="preview-images/logos/logo.appstore.square.png" width="50"/></a>                                 | `logo.appstore.square`                 |
-| <a href="logos/logo.appstore.square.fill.svg"><img src="preview-images/logos/logo.appstore.square.fill.png" width="50"/></a>                       | `logo.appstore.square.fill`            |
-| **Bluetooth**                                                                                                                                      |                                        |
-| <a href="logos/logo.bluetooth.svg"><img src="preview-images/logos/logo.bluetooth.png" width="50"/></a>                                             | `logo.bluetooth`                       |
+| Preview                                                      | Name                                   |
+| ------------------------------------------------------------ | -------------------------------------- |
+| **AppStore**                                                 |                                        |
+| <a href="logos/logo.appstore.svg"><img src="preview-images/logos/logo.appstore.png" width="50"/></a> | `logo.appstore`                        |
+| <a href="logos/logo.appstore.circle.svg"><img src="preview-images/logos/logo.appstore.circle.png" width="50"/></a> | `logo.appstore.circle`                 |
+| <a href="logos/logo.appstore.circle.fill.svg"><img src="preview-images/logos/logo.appstore.circle.fill.png" width="50"/></a> | `logo.appstore.circle.fill`            |
+| <a href="logos/logo.appstore.square.svg"><img src="preview-images/logos/logo.appstore.square.png" width="50"/></a> | `logo.appstore.square`                 |
+| <a href="logos/logo.appstore.square.fill.svg"><img src="preview-images/logos/logo.appstore.square.fill.png" width="50"/></a> | `logo.appstore.square.fill`            |
+| **Bluetooth**                                                |                                        |
+| <a href="logos/logo.bluetooth.svg"><img src="preview-images/logos/logo.bluetooth.png" width="50"/></a> | `logo.bluetooth`                       |
 | <a href="logos/logo.bluetooth.capsule.portrait.fill.svg"><img src="preview-images/logos/logo.bluetooth.capsule.portrait.fill.png" width="50"/></a> | `logo.bluetooth.capsule.portrait.fill` |
-| **Buy me a Coffee**                                                                                                                                |                                        |
-| <a href="logos/logo.buymeacoffee.svg"><img src="preview-images/logos/logo.buymeacoffee.png" width="50"/></a>                                       | `logo.buymeacoffee`                    |
-| **Git**                                                                                                                                            |                                        |
-| <a href="logos/logo.git.svg"><img src="preview-images/logos/logo.git.png" width="50"/></a>                                                         | `logo.git`                             |
-| <a href="logos/logo.git.fill.svg"><img src="preview-images/logos/logo.git.fill.png" width="50"/></a>                                               | `logo.git.fill`                        |
-| **GitHub**                                                                                                                                         |                                        |
-| <a href="logos/logo.github.svg"><img src="preview-images/logos/logo.github.png" width="50"/></a>                                                   | `logo.github`                          |
-| <a href="logos/logo.github.circle.svg"><img src="preview-images/logos/logo.github.circle.png" width="50"/></a>                                     | `logo.github.circle`                   |
-| <a href="logos/logo.github.circle.fill.svg"><img src="preview-images/logos/logo.github.circle.fill.png" width="50"/></a>                           | `logo.github.circle.fill`              |
-| <a href="logos/logo.github.square.svg"><img src="preview-images/logos/logo.github.square.png" width="50"/></a>                                     | `logo.github.square`                   |
-| **Markdown**                                                                                                                                       |                                        |
-| <a href="logos/logo.markdown.svg"><img src="preview-images/logos/logo.markdown.png" width="50"/></a>                                               | `logo.markdown`                        |
-| <a href="logos/logo.markdown.rectangle.svg"><img src="preview-images/logos/logo.markdown.rectangle.png" width="50"/></a>                           | `logo.markdown.rectangle`              |
-| <a href="logos/logo.markdown.rectangle.fill.svg"><img src="preview-images/logos/logo.markdown.rectangle.fill.png" width="50"/></a>                 | `logo.markdown.rectangle.fill`         |
-| **PayPal**                                                                                                                                         |                                        |
-| <a href="logos/logo.paypal.svg"><img src="preview-images/logos/logo.paypal.png" width="50"/></a>                                                   | `logo.paypal`                          |
-| <a href="logos/logo.paypal.alternative.svg"><img src="preview-images/logos/logo.paypal.alternative.png" width="50"/></a>                           | `logo.paypal.alternative`              |
-| <a href="logos/logo.paypal.circle.svg"><img src="preview-images/logos/logo.paypal.circle.png" width="50"/></a>                                     | `logo.paypal.circle`                   |
-| <a href="logos/logo.paypal.circle.fill.svg"><img src="preview-images/logos/logo.paypal.circle.fill.png" width="50"/></a>                           | `logo.paypal.circle.fill`              |
-| <a href="logos/logo.paypal.square.svg"><img src="preview-images/logos/logo.paypal.square.png" width="50"/></a>                                     | `logo.paypal.square`                   |
-| <a href="logos/logo.paypal.square.fill.svg"><img src="preview-images/logos/logo.paypal.square.fill.png" width="50"/></a>                           | `logo.paypal.square.fill`              |
-| **Twitter**                                                                                                                                         |                                        |
-| <a href="logos/logo.twitter.svg"><img src="preview-images/logos/logo.twitter.png" width="50"/></a>                                                   | `logo.twitter`                          |
-| <a href="logos/logo.twitter.circle.svg"><img src="preview-images/logos/logo.twitter.circle.png" width="50"/></a>                                     | `logo.twitter.circle`                   |
-| <a href="logos/logo.twitter.circle.fill.svg"><img src="preview-images/logos/logo.twitter.circle.fill.png" width="50"/></a>                           | `logo.twitter.circle.fill`              |
-| <a href="logos/logo.twitter.square.svg"><img src="preview-images/logos/logo.paypal.twitter.png" width="50"/></a>                                     | `logo.twitter.square`                   |
-| <a href="logos/logo.twitter.square.fill.svg"><img src="preview-images/logos/logo.twitter.square.fill.png" width="50"/></a>                           | `logo.twitter.square.fill`              |
+| **Buy me a Coffee**                                          |                                        |
+| <a href="logos/logo.buymeacoffee.svg"><img src="preview-images/logos/logo.buymeacoffee.png" width="50"/></a> | `logo.buymeacoffee`                    |
+| **Git**                                                      |                                        |
+| <a href="logos/logo.git.svg"><img src="preview-images/logos/logo.git.png" width="50"/></a> | `logo.git`                             |
+| <a href="logos/logo.git.fill.svg"><img src="preview-images/logos/logo.git.fill.png" width="50"/></a> | `logo.git.fill`                        |
+| **GitHub**                                                   |                                        |
+| <a href="logos/logo.github.svg"><img src="preview-images/logos/logo.github.png" width="50"/></a> | `logo.github`                          |
+| <a href="logos/logo.github.circle.svg"><img src="preview-images/logos/logo.github.circle.png" width="50"/></a> | `logo.github.circle`                   |
+| <a href="logos/logo.github.circle.fill.svg"><img src="preview-images/logos/logo.github.circle.fill.png" width="50"/></a> | `logo.github.circle.fill`              |
+| <a href="logos/logo.github.square.svg"><img src="preview-images/logos/logo.github.square.png" width="50"/></a> | `logo.github.square`                   |
+| **Markdown**                                                 |                                        |
+| <a href="logos/logo.markdown.svg"><img src="preview-images/logos/logo.markdown.png" width="50"/></a> | `logo.markdown`                        |
+| <a href="logos/logo.markdown.rectangle.svg"><img src="preview-images/logos/logo.markdown.rectangle.png" width="50"/></a> | `logo.markdown.rectangle`              |
+| <a href="logos/logo.markdown.rectangle.fill.svg"><img src="preview-images/logos/logo.markdown.rectangle.fill.png" width="50"/></a> | `logo.markdown.rectangle.fill`         |
+| **PayPal**                                                   |                                        |
+| <a href="logos/logo.paypal.svg"><img src="preview-images/logos/logo.paypal.png" width="50"/></a> | `logo.paypal`                          |
+| <a href="logos/logo.paypal.alternative.svg"><img src="preview-images/logos/logo.paypal.alternative.png" width="50"/></a> | `logo.paypal.alternative`              |
+| <a href="logos/logo.paypal.circle.svg"><img src="preview-images/logos/logo.paypal.circle.png" width="50"/></a> | `logo.paypal.circle`                   |
+| <a href="logos/logo.paypal.circle.fill.svg"><img src="preview-images/logos/logo.paypal.circle.fill.png" width="50"/></a> | `logo.paypal.circle.fill`              |
+| <a href="logos/logo.paypal.square.svg"><img src="preview-images/logos/logo.paypal.square.png" width="50"/></a> | `logo.paypal.square`                   |
+| <a href="logos/logo.paypal.square.fill.svg"><img src="preview-images/logos/logo.paypal.square.fill.png" width="50"/></a> | `logo.paypal.square.fill`              |
+| **Twitter**                                                  |                                        |
+| <a href="logos/logo.twitter.svg"><img src="preview-images/logos/logo.twitter.png" width="50"/></a> | `logo.twitter`                         |
+| <a href="logos/logo.twitter.circle.svg"><img src="preview-images/logos/logo.twitter.circle.png" width="50"/></a> | `logo.twitter.circle`                  |
+| <a href="logos/logo.twitter.circle.fill.svg"><img src="preview-images/logos/logo.twitter.circle.fill.png" width="50"/></a> | `logo.twitter.circle.fill`             |
+| <a href="logos/logo.twitter.square.svg"><img src="preview-images/logos/logo.twitter.square.png" width="50"/></a> | `logo.twitter.square`                  |
+| <a href="logos/logo.twitter.square.fill.svg"><img src="preview-images/logos/logo.twitter.square.fill.png" width="50"/></a> | `logo.twitter.square.fill`             |
 
 ## Contributing
 
